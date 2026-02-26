@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Roha44-png
+/src/backend/database.py      @Roha44-png
+/src/backend/routers/auth.py  @Roha44-png
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Roha44-png
